@@ -80,3 +80,5 @@ This makes your bot ready for:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+
+YouTube Link: https://youtu.be/BgvICjPIYZw
